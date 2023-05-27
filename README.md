@@ -14,7 +14,7 @@ Fetches weather data from the **WeatherAPI** to obtain up-to-date weather inform
 **1. Clone the repository:**
 
    ```shell
-   git clone https://github.com/your-username/weather-app.git` 
+   git clone https://github.com/your-username/weather-app.git
    ```
 **2.  Install dependencies:**
     
